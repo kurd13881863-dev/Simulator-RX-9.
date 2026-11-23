@@ -1,0 +1,6 @@
+{
+  "appId": "com.simulator.rx9",
+  "appName": "Simulator RX-9",
+  "webDir": "www",
+  "bundledWebRuntime": false
+}

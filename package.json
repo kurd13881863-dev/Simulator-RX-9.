@@ -1,0 +1,8 @@
+{
+  "name": "simulator-rx-9",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {"build:android": "cap sync android"},
+  "dependencies": {"@capacitor/android": "^7.4.0", "@capacitor/core": "^7.4.0"},
+  "devDependencies": {"@capacitor/cli": "^7.4.0"}
+}
